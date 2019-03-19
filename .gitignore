@@ -1,0 +1,20 @@
+# eclipse
+.project
+.classpath
+.settings/
+
+# temp folder
+target/
+classes/
+bin/
+*.*~
+
+# Intellij
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# log file
+info.log
+asyncWithLocation.log
